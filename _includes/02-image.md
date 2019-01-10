@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![test slika](https://sa.kapamilya.com/absnews/abscbnnews/media/2018/news/10/16/20181016_bolt.jpg)
